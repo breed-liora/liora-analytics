@@ -1,0 +1,4 @@
+[tool.dagster]
+module_name = "src.repository"
+code_location_name = "liora_analytics"
+fn_name = "liora_analytics"
